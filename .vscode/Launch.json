@@ -1,0 +1,6 @@
+{
+    "name": "Unity Editor",
+    "type": "unity",
+    "request": "launch",
+    "processId": "<path-to-project>/Library/EditorInstance.json"
+}
